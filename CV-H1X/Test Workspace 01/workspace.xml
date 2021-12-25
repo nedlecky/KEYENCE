@@ -6,14 +6,14 @@
   <SoftwareGrade>1078021196</SoftwareGrade>
   <ControllerID>-1</ControllerID>
   <Version>1.0.0000</Version>
-  <SimulatorSizeHeight>832</SimulatorSizeHeight>
-  <SimulatorSizeWidth>1064</SimulatorSizeWidth>
-  <SimulatorPositionX>1208</SimulatorPositionX>
-  <SimulatorPositionY>205</SimulatorPositionY>
+  <SimulatorSizeHeight>1194</SimulatorSizeHeight>
+  <SimulatorSizeWidth>1546</SimulatorSizeWidth>
+  <SimulatorPositionX>293</SimulatorPositionX>
+  <SimulatorPositionY>83</SimulatorPositionY>
   <ImageBarSizeHeight>832</ImageBarSizeHeight>
   <ImageBarSizeWidth>178</ImageBarSizeWidth>
-  <ImageBarPositionX>2288</ImageBarPositionX>
-  <ImageBarPositionY>205</ImageBarPositionY>
+  <ImageBarPositionX>1855</ImageBarPositionX>
+  <ImageBarPositionY>83</ImageBarPositionY>
   <ImageBarSticking>true</ImageBarSticking>
   <ImageBarFormMode>0</ImageBarFormMode>
   <ImageBarViewMode>0</ImageBarViewMode>
