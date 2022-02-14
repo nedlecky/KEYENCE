@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisionRemocon>
+     <Version>100000000000</Version>
+     <AutoConnect>0</AutoConnect>
+     <AutoLogging>0</AutoLogging>
+     <ReserveLogfile>C:\Users\nedlecky\Documents\KEYENCE\XG-X VisionTerminal</ReserveLogfile>
+     <RemoteSizeFollow>0</RemoteSizeFollow>
+     <MainFormHight>1277</MainFormHight>
+     <MainFormWidth>1881</MainFormWidth>
+     <MainFormMaxMini>0</MainFormMaxMini>
+     <Contoroller>
+          <IPorUSB>192.168.0.10</IPorUSB>
+          <SettingLogging>0</SettingLogging>
+          <SerialSettingRDT>1</SerialSettingRDT>
+          <ControllerFileGetDirectory>SD1:\</ControllerFileGetDirectory>
+     </Contoroller>
+     <Contoroller>
+          <IPorUSB>USB</IPorUSB>
+          <SettingLogging>0</SettingLogging>
+          <SerialSettingRDT>1</SerialSettingRDT>
+          <ControllerFileGetDirectory>SD1:\</ControllerFileGetDirectory>
+     </Contoroller>
+     <ScreenChange>
+          <SystemView>0</SystemView>
+          <ViewTypeSystem>
+               <IPorUSB />
+               <ControllerName />
+               <UnitNo>-1</UnitNo>
+               <ViewLocationX>0</ViewLocationX>
+               <ViewLocationY>49</ViewLocationY>
+               <ViewSizeHight>1189</ViewSizeHight>
+               <ViewSizeWidth>190</ViewSizeWidth>
+               <ZOrder>0</ZOrder>
+               <LogViewNo>-1</LogViewNo>
+               <ImageSize>50</ImageSize>
+               <ScreenMaxMin>0</ScreenMaxMin>
+          </ViewTypeSystem>
+     </ScreenChange>
+     <ScreenChange>
+          <SystemView>0</SystemView>
+          <ViewTypeSystem>
+               <IPorUSB />
+               <ControllerName />
+               <UnitNo>-1</UnitNo>
+               <ViewLocationX>0</ViewLocationX>
+               <ViewLocationY>49</ViewLocationY>
+               <ViewSizeHight>1132</ViewSizeHight>
+               <ViewSizeWidth>190</ViewSizeWidth>
+               <ZOrder>0</ZOrder>
+               <LogViewNo>-1</LogViewNo>
+               <ImageSize>50</ImageSize>
+               <ScreenMaxMin>0</ScreenMaxMin>
+          </ViewTypeSystem>
+     </ScreenChange>
+     <ScreenChange>
+          <SystemView>0</SystemView>
+          <ViewTypeSystem>
+               <IPorUSB />
+               <ControllerName />
+               <UnitNo>-1</UnitNo>
+               <ViewLocationX>0</ViewLocationX>
+               <ViewLocationY>49</ViewLocationY>
+               <ViewSizeHight>1132</ViewSizeHight>
+               <ViewSizeWidth>190</ViewSizeWidth>
+               <ZOrder>0</ZOrder>
+               <LogViewNo>-1</LogViewNo>
+               <ImageSize>50</ImageSize>
+               <ScreenMaxMin>0</ScreenMaxMin>
+          </ViewTypeSystem>
+     </ScreenChange>
+     <ScreenChange>
+          <SystemView>0</SystemView>
+          <ViewTypeSystem>
+               <IPorUSB />
+               <ControllerName />
+               <UnitNo>-1</UnitNo>
+               <ViewLocationX>0</ViewLocationX>
+               <ViewLocationY>49</ViewLocationY>
+               <ViewSizeHight>1132</ViewSizeHight>
+               <ViewSizeWidth>190</ViewSizeWidth>
+               <ZOrder>0</ZOrder>
+               <LogViewNo>-1</LogViewNo>
+               <ImageSize>50</ImageSize>
+               <ScreenMaxMin>0</ScreenMaxMin>
+          </ViewTypeSystem>
+     </ScreenChange>
+     <ScreenChange />
+     <KeyInfo>
+          <Keyboard_0>KEY_ENT</Keyboard_0>
+          <Keyboard_1>KEY_F</Keyboard_1>
+          <Keyboard_2>KEY_ESC</Keyboard_2>
+          <Keyboard_3>KEY_T</Keyboard_3>
+          <Keyboard_4>KEY_S</Keyboard_4>
+          <Keyboard_5>KEY_V</Keyboard_5>
+          <Keyboard_6>KEY_M</Keyboard_6>
+          <Keyboard_7>KEY_B</Keyboard_7>
+          <Keyboard_8>KEY_R</Keyboard_8>
+          <Extpad_0>BUTTON_8</Extpad_0>
+          <Extpad_1>BUTTON_0</Extpad_1>
+          <Extpad_2>BUTTON_1</Extpad_2>
+          <Extpad_3>BUTTON_2</Extpad_3>
+          <Extpad_4>BUTTON_3</Extpad_4>
+          <Extpad_5>BUTTON_4</Extpad_5>
+          <Extpad_6>BUTTON_5</Extpad_6>
+          <Extpad_7>BUTTON_6</Extpad_7>
+          <Extpad_8>BUTTON_7</Extpad_8>
+     </KeyInfo>
+</VisionRemocon>

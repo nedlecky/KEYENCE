@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ControllerIpAddress />
+  <ControllerName />
+  <ControllerType>12</ControllerType>
+  <SoftwareGrade>1078219315</SoftwareGrade>
+  <ControllerID>-1</ControllerID>
+  <Version>1.0.0000</Version>
+  <SimulatorSizeHeight>1077</SimulatorSizeHeight>
+  <SimulatorSizeWidth>1391</SimulatorSizeWidth>
+  <SimulatorPositionX>2587</SimulatorPositionX>
+  <SimulatorPositionY>235</SimulatorPositionY>
+  <ImageBarSizeHeight>1074</ImageBarSizeHeight>
+  <ImageBarSizeWidth>245</ImageBarSizeWidth>
+  <ImageBarPositionX>3994</ImageBarPositionX>
+  <ImageBarPositionY>235</ImageBarPositionY>
+  <ImageBarSticking>true</ImageBarSticking>
+  <ImageBarFormMode>0</ImageBarFormMode>
+  <ImageBarViewMode>0</ImageBarViewMode>
+  <TumbnailSizeType>2</TumbnailSizeType>
+</Workspace>
